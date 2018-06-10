@@ -5,6 +5,7 @@ import javax.persistence.Entity;
 @Entity
 public class Admin {
 	
+	int x = 0;
 	
 
 }
